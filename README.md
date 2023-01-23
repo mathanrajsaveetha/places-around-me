@@ -198,5 +198,9 @@ map.html :
 ### Girls Hostel
 ![sec g](https://user-images.githubusercontent.com/119560501/214063735-9fc339e2-31fc-4985-b0be-aa98e0f8296b.png)
 
+### HTML Validator
+![HTML Val pam](https://user-images.githubusercontent.com/119560501/214064544-6aec6475-e235-4167-8a6d-bf2297845d9c.png)
+
+
 ## Result:
 Thus The Web Is Developed To Show The Details Of SEC
