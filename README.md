@@ -174,7 +174,29 @@ map.html :
 </html>
 ```
 ## Output:
-Include your output screenshot here
+### Map
+![sec m](https://user-images.githubusercontent.com/119560501/214063536-7fe94f38-7faf-4667-9fa7-3dec156e622c.png)
+
+### Admin
+![sec a](https://user-images.githubusercontent.com/119560501/214063572-9ae5a242-79bd-47a3-8133-0bf4e15f0150.png)
+
+### Cse
+![sec c](https://user-images.githubusercontent.com/119560501/214063600-cf3cfa62-6654-49af-bbd8-dd6d1145cc95.png)
+
+### ECE
+![sec ec](https://user-images.githubusercontent.com/119560501/214063622-6a3c6d17-e7e6-4709-9cd0-63e6dde7c03c.png)
+
+### EEE
+![sec ee](https://user-images.githubusercontent.com/119560501/214063645-41c2966d-37db-4f46-a5a6-3ee2caaf1518.png)
+
+### RB
+![sec rb](https://user-images.githubusercontent.com/119560501/214063676-1af57a75-06c4-4043-aa25-ac328d92a817.png)
+
+### Boys Hostel
+![sec b](https://user-images.githubusercontent.com/119560501/214063707-6120d70a-8e61-4dfd-bc8a-dad3f5609d73.png)
+
+### Girls Hostel
+![sec g](https://user-images.githubusercontent.com/119560501/214063735-9fc339e2-31fc-4985-b0be-aa98e0f8296b.png)
 
 ## Result:
 Thus The Web Is Developed To Show The Details Of SEC
